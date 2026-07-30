@@ -1,0 +1,96 @@
+baseURL: "https://current.arc.ai.kr/"
+title: "ARC Current"
+theme: "PaperMod"
+
+defaultContentLanguage: "ko"
+defaultContentLanguageInSubdir: true
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+pagination:
+  pagerSize: 10
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  ko:
+    contentDir: "content/ko"
+    label: "한국어"
+    locale: "ko-KR"
+    weight: 1
+    title: "ARC Current"
+    params:
+      description: "사용후 배터리 시장 정보와 기술 동향"
+      homeInfoParams:
+        Title: "ARC Current"
+        Content: >
+          사용후 배터리 시장 정보와 기술 동향을 전하는 ARC의 기술 블로그입니다.
+    menus:
+      main:
+        - name: "시장동향"
+          url: "/ko/categories/market/"
+          weight: 10
+        - name: "기술"
+          url: "/ko/categories/tech/"
+          weight: 20
+        - name: "정책·규제"
+          url: "/ko/categories/policy/"
+          weight: 30
+        - name: "소개"
+          url: "/ko/about/"
+          weight: 40
+  en:
+    contentDir: "content/en"
+    label: "English"
+    locale: "en-US"
+    weight: 2
+    title: "ARC Current"
+    params:
+      description: "Insights on the second-life battery market and technology"
+      homeInfoParams:
+        Title: "ARC Current"
+        Content: >
+          ARC's technology blog on the second-life battery market and technology trends.
+    menus:
+      main:
+        - name: "Market"
+          url: "/en/categories/market/"
+          weight: 10
+        - name: "Tech"
+          url: "/en/categories/tech/"
+          weight: 20
+        - name: "Policy"
+          url: "/en/categories/policy/"
+          weight: 30
+        - name: "About"
+          url: "/en/about/"
+          weight: 40
+
+params:
+  env: production
+  author: "ARC (Adaptive Research Corp.)"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  displayFullLangName: true
+  copyright: "© ARC (Adaptive Research Corp.)"
+
+taxonomies:
+  category: categories
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
+  highlight:
+    noClasses: false
