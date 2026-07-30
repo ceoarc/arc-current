@@ -1,0 +1,51 @@
+# Sonar 수집기 설정
+# 축(axis)은 이 블로그 콘텐츠 분류 체계와 일치시킨다.
+
+naver_news:
+  display: 20        # 축별 키워드별 최근 수집 건수
+  sort: date          # 일자순
+  axes:
+    recycling:
+      - "폐배터리 재활용"
+      - "블랙매스"
+      - "배터리 재활용"
+    second-life:
+      - "사용후 배터리"
+      - "배터리 재사용"
+      - "배터리 재제조"
+      - "UBESS"
+    policy:
+      - "배터리 여권"
+      - "배터리 순환이용"
+      - "사용후 배터리 인증"
+    players:
+      - "배터리 스타트업 투자"
+      - "폐배터리 스타트업"
+    safety:
+      - "ESS 화재"
+      - "배터리 화재"
+      - "열폭주"
+
+rss_feeds:
+  # second-life / recycling / battery 키워드로 제목+요약을 필터링해서 후보로만 채택한다.
+  keyword_filter:
+    - "second-life"
+    - "second life"
+    - "recycl"          # recycling / recycled / recycler 등 매칭
+    - "battery"
+  sources:
+    - name: "Energy Storage News"
+      url: "https://www.energy-storage.news/feed/"
+    - name: "Recycling Today"
+      url: "https://www.recyclingtoday.com/rss/all/"
+    - name: "PV Magazine"
+      url: "https://www.pv-magazine.com/feed/"
+
+arxiv:
+  lookback_days: 30
+  max_results_per_query: 20
+  queries:
+    - "battery SOC estimation"
+    - "battery SOH estimation"
+    - "battery remaining useful life"
+    - "thermal runaway"
