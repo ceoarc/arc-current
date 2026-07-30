@@ -4,6 +4,10 @@ date: 2026-07-30T14:00:00+09:00
 categories: ["market"]
 tags: ["announcement"]
 draft: false
+cover:
+  image: "/images/covers/why-arc-current.png"
+  alt: "Introducing ARC Current: The Sea, Batteries, and a Record"
+  relative: false
 ---
 
 "The sea is everything. Its breath is pure and healthy." That is how Captain Nemo described the ocean in Jules Verne's Twenty Thousand Leagues Under the Seas. A century and a half later, that breath is not what it used to be. The climate is faltering, the planet is ailing, and it is the ocean that has absorbed most of the heat.

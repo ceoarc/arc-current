@@ -1,9 +1,15 @@
 ---
-title: "ARC Current를 시작하며: 바다, 배터리, 그리고 기록"
-date: 2026-07-30T14:00:00+09:00
-categories: ["market"]
-tags: ["공지"]
+title: 'ARC Current를 시작하며: 바다, 배터리, 그리고 기록'
+date: 2026-07-30 14:00:00+09:00
+categories:
+- market
+tags:
+- 공지
 draft: false
+cover:
+  image: /images/covers/why-arc-current.png
+  alt: 'ARC Current를 시작하며: 바다, 배터리, 그리고 기록'
+  relative: false
 ---
 
 "바다는 모든 것입니다. 그 숨결은 순수하고 건강합니다." 쥘 베른의 해저 2만리에서 네모 선장은 바다를 이렇게 말했습니다. 150년이 지난 지금, 그 숨결은 예전 같지 않습니다. 기후가 흔들리고 지구가 앓고 있으며, 그 열의 대부분을 받아내고 있는 것이 바다입니다.
