@@ -1,6 +1,6 @@
 ---
 title: "KC 62619 Explained: Scope, Procedure, and Where It Strains Against Used Batteries"
-date: 2026-08-13T17:40:00+09:00
+date: 2026-08-13T09:15:00+09:00
 categories: ["policy"]
 tags: ["second-life", "safety"]
 draft: false
