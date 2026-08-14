@@ -1,0 +1,54 @@
+---
+title: 미국 AI 데이터센터, 사용후 EV 배터리로 전력 공백 메운다
+date: 2026-08-14 15:00:00+09:00
+categories:
+- market
+tags:
+- second-life
+- players
+- ESS
+- 데이터센터
+draft: false
+cover:
+  image: /images/covers/used-ev-batteries-ai-data-center-power.png
+  alt: 미국 AI 데이터센터, 사용후 EV 배터리로 전력 공백 메운다
+  relative: false
+---
+
+미국에서 AI 데이터센터의 전력 확보 방식으로 사용후 전기차 배터리가 떠오르고 있다. 테슬라 공동창업자 JB 스트라우벨이 세운 배터리 재활용 기업 레드우드 머티리얼즈는 네바다주 스파크스 캠퍼스에 태양광 발전과 사용후 EV 배터리 저장장치를 결합한 12메가와트(MW)·63메가와트시(MWh) 규모 마이크로그리드를 구축해 2025년 6월부터 가동했다. 20에이커 규모 태양광 어레이가 전력을 만들고, 사용후 배터리팩 수백 개가 이를 저장해 야간에도 공급하는 구조다. 가동 초기 이 마이크로그리드가 감당하던 데이터센터의 실제 연산 부하는 약 1MW 수준이었다.
+
+이 전력은 AI 인프라 기업 크루소가 운영하는 약 2,000개 GPU 규모 모듈형 데이터센터에 공급된다. 크루소는 2026년 3월 발표에서 가동 후 7개월간 운영 가용률이 99.2%를 기록했다고 밝혔다. 같은 발표에서 크루소는 자사 클라우드 서비스 자체는 계통 전력을 백업으로 병행해 99.9% 가동률을 유지한다고 덧붙였는데, 이는 이 마이크로그리드가 완전한 오프그리드 운영이 아니라 계통 백업과 병행되는 구조라는 뜻이다. 크루소는 이 시설을 4개에서 24개 모듈형 유닛으로 확장하겠다고 밝혔고, 확장이 완료되면 전력수요가 약 20MW까지 늘어날 것으로 예상된다. 다만 확장 완공 시점은 공개되지 않았다.
+
+## 왜 사용후 배터리인가
+
+AI 데이터센터의 전력 수요는 빠르게 늘고 있지만, 신규 변전소 접속이나 송전망 증설에는 통상 수년이 걸린다. 사용후 EV 배터리 기반 마이크로그리드는 이 접속 대기 기간을 우회하는 방편으로 주목받는다. 정지형 설비라 전기차만큼의 순간 고출력이 필요 없고, 팩이나 모듈 단위를 유지한 채 재구성할 수 있다. 레드우드 머티리얼즈의 캘 랭턴(Cal Lankton) 최고상업책임자는 사용후 배터리를 쓰면 신품 대비 "사실상 절반 가격"에 에너지저장장치를 구축할 수 있다고 말했다.
+
+사용후 배터리를 데이터센터에 공급하는 흐름은 다른 스타트업에서도 확인된다. 브리티시컬럼비아주 포트코퀴틀램에 본사를 둔 사용후 배터리 재사용 기업 모먼트 에너지는 지난 5월 4천만 달러 규모 시리즈B를 유치하며 누적 투자액을 1억 달러 이상으로 늘렸다. 보도자료는 텍사스주 오스틴에서 배포됐고, 생산 시설은 텍사스와 브리티시컬럼비아 양쪽에 두고 있다. 조달 목적 중 하나로 AI 데이터센터·산업용 고객 대상 대규모 ESS 공급을 명시했다.
+
+같은 병목, 즉 전력망 신규 접속 지연을 노린 사례로 시애틀의 EV 충전 스타트업 일렉트릭 에라도 있다. 다만 이 회사가 2026년 5월 21일 출시한 "코파워(CoPower)" 플랫폼은 사용후 배터리가 아니라 LG에너지솔루션의 신품 LFP 배터리를 쓴다. 재사용한 것은 배터리 자체가 아니라 자사 EV 충전소용 배터리 제어 소프트웨어 스택이다. 2.5MW 단위 블록으로 구성돼 100MW 이상까지 확장 가능하며, 전력구매계약(PPA) 방식으로 운영되고, 설치 기간이 12~18개월로 통상 5년 이상 걸리는 계통 증설보다 훨씬 짧다. 맥쿼리와의 5,000만 달러 규모 프로젝트 파이낸싱은 확보로 전한 매체와 구속력 없는 텀시트 단계로 전한 매체가 엇갈린다.
+
+사용후 배터리 수요는 데이터센터 밖으로도 번지고 있다. 리비안과 레드우드 머티리얼즈는 2026년 4월 14일 일리노이주 노멀 공장에 사용후 배터리 저장장치를 배치한다고 발표했다. 리비안의 사용후 배터리팩 100개 이상을 레드우드의 팩 매니저(Pack Manager) 기술로 통합해 필요할 때 즉시 공급할 수 있는 초기 10메가와트시(MWh) 규모 저장용량을 확보하고, 피크 시간대 전력비용과 계통 부하를 낮추는 것이 목적이다. 제너럴모터스(GM)도 2026년 6월 미시간주 공장에 자사 사용후 배터리팩 약 100개로 1.5MW/7.2MWh 규모 저장장치를 레드우드와 함께 구축한다고 밝혔다. 레드우드는 이 설비가 수명 기간 동안 해당 공장의 전기요금을 300만 달러 이상 절감할 것으로 전망했다.
+
+## ARC의 관찰
+
+사용후 배터리 수요가 데이터센터에 이어 완성차 제조 공장까지 번지는 것은 재사용 산업 전체로 보면 의미 있는 확장이다. 다만 이 해법이 국내에도 그대로 적용될지는 별개의 문제다. 데이터센터 사례의 동인은 전력망 신규 접속 지연 우회이고, 완성차 공장 사례의 동인은 피크 시간대 전력요금과 계통 부하 절감이다. 동인이 다른 만큼 국내 적용 가능성도 두 방향 모두 검토 대상으로 두는 편이 맞다. 국내 실증·상용화 사례는 대부분 ESS에 집중되어 있고, 이번 사례 역시 결국 ESS의 새로운 수요처가 늘어난 것에 가깝다는 점에서 국내 사업자에게는 데이터센터 전력 공급이라는 용도 자체보다 사용후 배터리 ESS 시장의 저변이 넓어지는 신호로 읽힌다. 국내 데이터센터 전력난이 본격화될 경우 이 모델이 참고 사례가 될 수 있는지는 지켜볼 지점이다.
+
+참고: [Latitude Media] "Crusoe and Redwood Materials are powering a data center with old EV batteries" (https://www.latitudemedia.com/news/crusoe-and-redwood-materials-are-powering-a-data-center-with-old-ev-batteries/)
+
+참고: [Canary Media] "Redwood Materials built record grid storage project…" (https://www.canarymedia.com/articles/energy-storage/redwood-used-batteries-data-center)
+
+참고: [Fast Company] "Redwood Materials powers a data center with solar and used EV batteries" (https://www.fastcompany.com/91502981/redwood-materials-most-innovative-companies-2026)
+
+참고: [Redwood Materials] "Redwood and Crusoe expand compute to 7x scale after 99.2% microgrid uptime" (https://www.redwoodmaterials.com/news/redwood-and-crusoe-expand-compute-to-7x-scale/)
+
+참고: [PV Magazine] "Second-life EV batteries approved for data center microgrid expansion" (https://www.pv-magazine.com/2026/03/25/second-life-ev-batteries-approved-for-data-center-microgrid-expansion/)
+
+참고: [Latitude Media] "Electric Era is turning its EV-charging tech into a data center power play" (https://www.latitudemedia.com/news/electric-era-is-turning-its-ev-charging-tech-into-a-data-center-power-play/)
+
+참고: [GeekWire] "EV startup Electric Era launches battery systems to tackle data center energy crunch" (https://www.geekwire.com/2026/ev-startup-electric-era-launches-battery-systems-to-tackle-data-center-energy-crunch/)
+
+참고: [TechStartups] "Moment Energy raises $40M to turn used EV batteries into power for AI data centers" (https://techstartups.com/2026/05/05/moment-energy-raises-40m-to-turn-used-ev-batteries-into-power-for-ai-data-centers/)
+
+참고: [PR Newswire] "Moment Energy Raises US$40M+ Series B to Build the World's Largest Second-Life Battery Factory" (https://www.prnewswire.com/news-releases/moment-energy-raises-us40m-series-b-to-build-the-worlds-largest-second-life-battery-factory-302762579.html)
+
+참고: [Redwood Materials] "Rivian and Redwood Materials Announce Energy Storage Partnership for Manufacturing" (https://www.redwoodmaterials.com/news/rivian-and-redwood-materials-announce-energy-storage-partnership-for-manufacturing/)
