@@ -24,23 +24,23 @@ SOH 추정 방식의 종류와 현장 적용 한계
 메모: 자동차관리법 개정(법률 제21412호)의 탈거 전 성능평가(제35조의13), 성능평가대행자(제35조의14), 부품제작자 등록(제35조의15), 유통 전 안전검사(제35조의16) 구조를 확정 사항과 하위법령 위임 사항으로 구분해 정리. 사용후배터리법과의 이중등록 여부는 미확인으로 남겨 별도 항목으로 대기에 추가.
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/remanufactured-battery-certification-path/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224389810960
 한국에서 재사용 배터리 사업을 검토할 때 확인해야 할 것들
 유형: 기준 해설
 메모: 대장에 없던 신규 항목(도미닉 직접 지정). 물량 확보→용도 결정→인증 트랙→설비·검사·이력관리→사업자 등록·책임보험 순서로 기존 3편(활용처 판별 기준, KC 62619, KC 10031)을 잇는 지도 역할의 글
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/reused-battery-business-review-order/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224381432715
 KC 10031 재사용전지 안전성검사 개요와 실무 쟁점
 유형: 기준 해설
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/kc-10031-reused-battery-inspection/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224377122988
 KC 62619 인증 개요와 사용후 배터리 적용 시 쟁점
 유형: 기준 해설
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/kc-62619-used-battery-issues/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224377103553
 사용후 배터리 활용처: ESS 편중의 이유와 특성 기반 용도 판별 기준
 유형: 기술 노트
 상태: 완료
