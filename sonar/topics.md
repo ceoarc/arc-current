@@ -45,4 +45,4 @@ KC 62619 인증 개요와 사용후 배터리 적용 시 쟁점
 유형: 기술 노트
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/used-battery-second-life-criteria/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224376765590
