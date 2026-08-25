@@ -18,7 +18,9 @@ Logbook: ARC Current 지식형 원고 스킬
 원고 작성: 한국어 원고를 먼저 작성하고, 같은 내용을 영어로 다시 쓴다(직역 금지).
 파일 배치: content/ko/posts/ 와 content/en/posts/ 에 같은 파일명으로 저장한다.
 썸네일 생성: python scripts/make_thumbnail.py --md content/ko/posts/<slug>.md 로 커버를 생성하고, ko/en 양쪽 front matter에 같은 cover가 걸렸는지 확인한다.
-검수 대기: 한/영 원고와 썸네일을 도미닉에게 보여주고 검수를 기다린다. 이 시점까지 커밋/push 금지.
+검수 대기: 한/영 원고와 썸네일을 도미닉에게 보여주고 검수를 기다린다. 이 시점까지 커밋/push 금지. 검수 보고에는 다음 두 가지를 항상 포함한다.
+- date 명령으로 실제 현재 시각을 확인하고, front matter의 date 값과 대조한 결과를 보고한다. 미래 시각이면 현재 시각으로 고친다.
+- front matter의 tags가 6개 축(recycling, second-life, players, safety, supply, price) 안에서만 골라졌는지 확인해 보고한다. 벗어난 태그가 있으면 고친다.
 게시: 도미닉이 승인하면 커밋과 push까지 진행한다. 게시 후 sonar/topics.md의 해당 항목에 작성 완료 표시와 글 주소를 남긴다.
 원고 구조
 제목: 다루는 내용을 정확히 알 수 있는 제목. 낚시성 표현 금지.

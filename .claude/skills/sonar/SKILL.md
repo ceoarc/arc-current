@@ -9,7 +9,9 @@
 3. 원고 작성: 한국어 원고를 먼저 작성하고, 같은 내용을 영어로 다시 쓴다(직역 금지, 영어 독자의 호흡으로).
 4. 파일 배치: content/ko/posts/ 와 content/en/posts/ 에 같은 파일명으로 저장한다.
 5. 썸네일 생성: `python scripts/make_thumbnail.py --md content/ko/posts/<slug>.md` 로 커버를 생성하고, ko/en 양쪽 front matter에 같은 cover가 걸렸는지 확인한다.
-6. 검수 대기: 한/영 원고와 썸네일을 도미닉에게 보여주고 검수를 기다린다. 이 시점까지 커밋/push 금지.
+6. 검수 대기: 한/영 원고와 썸네일을 도미닉에게 보여주고 검수를 기다린다. 이 시점까지 커밋/push 금지. 검수 보고에는 다음 두 가지를 항상 포함한다.
+   - date 명령으로 실제 현재 시각을 확인하고, front matter의 date 값과 대조한 결과를 보고한다. 미래 시각이면 현재 시각으로 고친다.
+   - front matter의 tags가 6개 축(recycling, second-life, players, safety, supply, price) 안에서만 골라졌는지 확인해 보고한다. 벗어난 태그가 있으면 고친다.
 7. 게시: 도미닉이 승인하면 커밋과 push까지 진행한다(Actions가 자동 배포). 네이버 게시는 도미닉이 수동으로 하며, 요청 시 네이버용 본문(서식 안내 포함)과 발행용 태그를 만들어준다. 작성 규칙은 아래 "네이버용 본문 규칙" 참조.
 
 ## 선별 기준
