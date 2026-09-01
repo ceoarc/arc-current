@@ -1,0 +1,48 @@
+---
+title: SOH 공개 의무화가 만드는 유럽의 배터리 진단 시장
+date: 2026-09-01 15:52:00+09:00
+categories:
+- policy
+tags:
+- second-life
+- players
+draft: false
+cover:
+  image: /images/covers/eu-soh-disclosure-diagnostic-market.png
+  alt: SOH 공개 의무화가 만드는 유럽의 배터리 진단 시장
+  relative: false
+---
+
+유럽에서 전기차 배터리의 건강 상태(SOH, State of Health)를 공개 대상으로 삼는 제도가 잇따라 시행을 앞두고 있다. 배터리 여권(Battery Passport)은 2027년 2월 18일부터 EU 시장에 출시되는 전기차용 배터리, 경량 운송수단(e-bike 등)용 배터리, 2kWh를 넘는 산업용 배터리에 의무화된다. 유럽집행위원회가 지난 7월 28일 공개하고 8월 15일 갱신한 가이던스 문서에 따르면, 배터리 카테고리별로 총 71개 데이터 항목의 공개 여부(필수·선택·조건부)가 정리돼 있다. 비슷한 시기 신규 차종에 적용되는 Euro 7 규정(Regulation (EU) 2024/1257)은 배터리 내구성 최소 기준을 두고, 그 근거가 되는 SOH 값을 소유자가 확인할 수 있도록 차량 내 모니터를 통해 공개하도록 규정한다. 신규 차종 형식승인은 2026년 11월 29일부터, 이미 승인된 차종의 신규 등록은 2027년 11월 29일부터 이 요건을 충족하지 못하면 제한된다.
+
+## 제도가 먼저 요구했다
+
+두 제도의 공통점은 SOH라는 값 자체를 처음으로 규율 대상에 올렸다는 것이다. 배터리 여권은 "무엇을 공개해야 하는가"를 데이터 항목 단위로 정리했고, Euro 7은 한 발 더 나아가 SOCE(State of Certified Energy)·SOCR(State of Certified Range)이라는 지표로 SOH를 표현하도록 했다. 이 지표를 분석한 기술문헌(MDPI 학술지 논문 등)에 따르면, SOCE·SOCR은 UN GTR No. 22 및 이를 인용하는 Euro 7의 정의에 따라 WLTP(월드와이드 표준 경차 시험 절차)를 축약한 WLTC 기반 시험으로 산출된다. 다만 이는 신규 형식승인 시험에 한정된 방법으로, 이미 도로 위에 있는 차량의 배터리를 사후에 진단하는 방식까지 통일한 것은 아니다.
+
+## 그 요구가 시장을 만들었다
+
+독일에서는 이 흐름에 맞춰 진단을 상품화하는 움직임이 먼저 나타났다. TÜV SÜD는 8월 27일 낸 보도자료에서, 전기·하이브리드차 구동배터리 상태를 진단하는 배터리체크 서비스를 현재 100개 이상 서비스센터에서 제공하고 있으며 단계적으로 전국망으로 넓힐 계획이라고 밝혔다. OBD 인터페이스에 진단기기를 연결해 그동안 소비자가 직접 확인하기 어려웠던 잔존용량을 백분율로 표시하고 검사보고서를 발급하는 방식이다.
+
+오스트리아 배터리 진단기업 AVILOO는 진단을 보증 상품으로 한 단계 더 연결했다. AVILOO 발표에 따르면(electrive.net 보도), 자체 FLASH Test로 산출한 SOH가 1년·주행거리 2만km 이내에 차량별로 계산된 한계치 밑으로 떨어지면 최대 3,000유로를 보상하는 배터리 보증 상품을 지난 6월 프랑스·스웨덴에서 시작해 7월 독일을 포함한 8개국으로 넓혔다. 진단이 검사기관의 보고서에 그치지 않고, 보증이라는 금융상품의 근거 데이터로도 쓰이기 시작한 것이다. 다만 보상 한도와 적용국 수는 AVILOO 측 발표 수치로, 제3의 기관이 확인한 값은 아니다.
+
+## 숫자만으로는 부족하다
+
+[SOH 추정 방식의 종류와 현장 적용 한계](https://current.arc.ai.kr/ko/posts/soh-estimation-methods-field-limits/)에서 짚었듯, SOH는 같은 배터리라도 어떤 방식·조건으로 재느냐에 따라 산출값이 달라질 수 있는 값이다. 제도가 SOH의 공개를 요구할 때 이 문제가 그대로 남는다. Euro 7이 형식승인 단계에서는 SOCE·SOCR 산출 방법을 WLTC 시험으로 못박았지만, 이미 시장에 나와 있는 차량을 진단하는 TÜV SÜD의 OBD 기반 단시간 검사나 AVILOO의 FLASH Test는 그와 다른 자체 방법론을 쓴다. 배터리 여권의 데이터 항목 규정이나, 8월 발표된 관련 상호운용성 표준(Commission Implementing Decision (EU) 2026/1736)도 데이터를 어떤 형식으로 주고받을지를 정할 뿐, 그 값을 산출한 측정 방법과 조건까지 통일하지는 않는다. 같은 차량이라도 어느 기관·도구로 잰 SOH인지에 따라 다른 숫자가 나올 수 있는 여지가 이 지점에 남는다.
+
+## ARC의 관찰
+
+국내에서도 [자동차관리법 개정](https://current.arc.ai.kr/ko/posts/remanufactured-battery-certification-path/)에 따른 탈거 전 성능평가가 재제조·재사용·재활용 세 등급을 성능평가 결과로 가르도록 설계됐지만, 그 등급을 가를 SOH 측정의 구체적 기준은 아직 국토교통부령에 위임된 채 정해지지 않았다. 유럽이 공개 의무를 먼저 세우고 그 뒤로 측정 방법의 정합성 문제를 그대로 안고 가는 순서를 밟고 있다는 점은, 하위법령을 이제 채워야 하는 국내 제도 설계에서 미리 눈여겨볼 지점이다.
+
+참고: [European Commission] "Digital Product Passport for Batteries (Battery Passport)" (https://single-market-economy.ec.europa.eu/single-market/digital-product-passport/batteries_en)
+
+참고: [European Commission] "Guidance Document: Digital Batteries Passport – data points by category" (https://single-market-economy.ec.europa.eu/document/download/cd1e5e6c-4a4a-4b99-995a-49eb6916187e_en?filename=Digital+Batteries+Passport+-+data+point+by+category.pdf)
+
+참고: [EUR-Lex] "Regulation (EU) 2024/1257 on type-approval of motor vehicles ... with respect to their emissions and battery durability (Euro 7)" (https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32024R1257)
+
+참고: [European Parliament] "Euro 7: Deal on new EU rules to reduce road transport emissions" (https://www.europarl.europa.eu/news/en/press-room/20231207IPR15740/euro-7-deal-on-new-eu-rules-to-reduce-road-transport-emissions)
+
+참고: [MDPI, Vehicles] "Experimental Application of the Global Technical Regulation on In-Vehicle Battery Durability" (https://www.mdpi.com/2313-0105/9/9/454)
+
+참고: [TÜV SÜD, lifePR] "TÜV SÜD bietet neue Tests für Traktionsbatterien an" (https://www.lifepr.de/pressemitteilung/tv-sd/TV-SD-bietet-neue-Tests-fr-Traktionsbatterien-an/boxid/1071026)
+
+참고: [electrive.net] "3.000 Euro bei Akku-Defekt: Aviloo überführt Batteriediagnose in eigene Kaufgarantie" (https://www.electrive.net/2026/06/16/3-000-euro-bei-akku-defekt-aviloo-ueberfuehrt-batteriediagnose-in-eigene-kaufgarantie/)
