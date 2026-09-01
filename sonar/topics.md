@@ -17,12 +17,12 @@ SOH 추정 방식의 종류와 현장 적용 한계
 유형: 기술 노트
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/soh-estimation-methods-field-limits/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224393263233
 EV 배터리 HVIL 인터록 회로의 구조와 원리, 재제조 탈거 공정에서 갖는 의미
 유형: 기술 노트
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/hvil-interlock-battery-remanufacturing/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224392887500
 재제조 배터리의 인증 경로, 2027년 시행 예정 자동차관리법 개정이 그리는 틀
 유형: 기준 해설
 메모: 자동차관리법 개정(법률 제21412호)의 탈거 전 성능평가(제35조의13), 성능평가대행자(제35조의14), 부품제작자 등록(제35조의15), 유통 전 안전검사(제35조의16) 구조를 확정 사항과 하위법령 위임 사항으로 구분해 정리. 사용후배터리법과의 이중등록 여부는 미확인으로 남겨 별도 항목으로 대기에 추가.
