@@ -2,7 +2,7 @@
 title: "Chung-Ang University Develops Bio-Based Composite That Slows and Absorbs Battery Thermal Runaway"
 date: 2026-08-06T19:25:00+09:00
 categories: ["tech"]
-tags: ["safety", "thermal runaway", "Chung-Ang University", "phase-change material", "battery thermal management"]
+tags: ["safety"]
 draft: false
 cover:
   image: "/images/covers/cau-thermal-management-composite-material.png"

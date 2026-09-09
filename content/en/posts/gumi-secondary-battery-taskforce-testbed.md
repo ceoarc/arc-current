@@ -2,7 +2,7 @@
 title: "Gumi Launches Secondary Battery Task Force to Build Battery Reuse and Recycling Ecosystem"
 date: 2026-08-06T19:40:00+09:00
 categories: ["policy"]
-tags: ["recycling", "second-life", "players", "Gumi", "battery testbed"]
+tags: ["recycling", "second-life", "players"]
 draft: false
 cover:
   image: "/images/covers/gumi-secondary-battery-taskforce-testbed.png"

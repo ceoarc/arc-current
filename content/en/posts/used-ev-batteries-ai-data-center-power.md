@@ -2,7 +2,7 @@
 title: "US AI Data Centers Turn to Retired EV Batteries to Close the Power Gap"
 date: 2026-08-14T15:00:00+09:00
 categories: ["market"]
-tags: ["second-life", "players", "ESS", "data-center"]
+tags: ["second-life", "players"]
 draft: false
 cover:
   image: "/images/covers/used-ev-batteries-ai-data-center-power.png"

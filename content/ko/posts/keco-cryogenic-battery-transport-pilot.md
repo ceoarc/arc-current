@@ -6,9 +6,6 @@ categories:
 tags:
 - second-life
 - safety
-- 초저온 동결
-- 한국환경공단
-- 사용후배터리법
 draft: false
 cover:
   image: /images/covers/keco-cryogenic-battery-transport-pilot.png

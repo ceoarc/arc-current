@@ -2,7 +2,7 @@
 title: "Wica Mobility, Softberry, Futurex Launch 'K-EV Alliance' Linking Diagnosis, Charging and Battery Remanufacturing"
 date: 2026-08-06T19:10:00+09:00
 categories: ["market"]
-tags: ["second-life", "players", "battery remanufacturing", "K-EV Alliance", "used EVs"]
+tags: ["second-life", "players"]
 draft: false
 cover:
   image: "/images/covers/k-ev-alliance-battery-remanufacturing.png"

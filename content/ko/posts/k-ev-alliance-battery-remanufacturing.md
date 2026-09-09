@@ -6,9 +6,6 @@ categories:
 tags:
 - second-life
 - players
-- 배터리재제조
-- K-EV얼라이언스
-- 중고전기차
 draft: false
 cover:
   image: /images/covers/k-ev-alliance-battery-remanufacturing.png

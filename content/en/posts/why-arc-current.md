@@ -2,7 +2,7 @@
 title: "Introducing ARC Current: The Sea, Batteries, and a Record"
 date: 2026-07-30T14:00:00+09:00
 categories: ["market"]
-tags: ["announcement"]
+tags: []
 draft: false
 cover:
   image: "/images/covers/why-arc-current.png"

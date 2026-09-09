@@ -7,8 +7,6 @@ tags:
 - recycling
 - second-life
 - players
-- 구미시
-- 배터리테스트베드
 draft: false
 cover:
   image: /images/covers/gumi-secondary-battery-taskforce-testbed.png

@@ -6,8 +6,6 @@ categories:
 tags:
 - second-life
 - players
-- ESS
-- 데이터센터
 draft: false
 cover:
   image: /images/covers/used-ev-batteries-ai-data-center-power.png

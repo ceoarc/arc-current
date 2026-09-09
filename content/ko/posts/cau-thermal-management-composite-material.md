@@ -5,10 +5,6 @@ categories:
 - tech
 tags:
 - safety
-- 열폭주
-- 중앙대학교
-- 상변화소재
-- 배터리열관리
 draft: false
 cover:
   image: /images/covers/cau-thermal-management-composite-material.png

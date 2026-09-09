@@ -3,8 +3,7 @@ title: 'ARC Current를 시작하며: 바다, 배터리, 그리고 기록'
 date: 2026-07-30 14:00:00+09:00
 categories:
 - market
-tags:
-- 공지
+tags: []
 draft: false
 cover:
   image: /images/covers/why-arc-current.png

@@ -2,7 +2,7 @@
 title: "Korea Environment Corporation Launches Cryogenic Freezing Pilot for Safer Battery Transport"
 date: 2026-07-30T16:06:00+09:00
 categories: ["policy"]
-tags: ["second-life", "safety", "cryogenic freezing", "Korea Environment Corporation", "Used Battery Act"]
+tags: ["second-life", "safety"]
 draft: false
 cover:
   image: "/images/covers/keco-cryogenic-battery-transport-pilot.png"
