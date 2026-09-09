@@ -40,6 +40,7 @@ Front matter
 date는 항상 작성 완료 시점의 실제(과거) 시각으로 기록한다. 미래 시각을 쓰면 빌드에서 제외된다.
 categories는 market, tech, policy 중 하나. 기준 해설은 대체로 policy, 기술 노트는 tech.
 tags는 6개 축(recycling, second-life, players, safety, supply, price) 안에서만 고른다. 해당 글에 맞는 축 태그만 넣고, 축에 속하지 않는 구체 키워드 태그는 tags에 추가하지 않는다.
+예외: 블로그 소개·안내처럼 6개 축 어디에도 속하지 않는 성격의 글은 tags를 빈 배열로 둔다.
 참고 표기
 
 본문 하단에 근거 자료를 매체명 또는 기관명 + 자료 제목 + 링크 형식으로 남긴다. 법령과 고시는 조문 번호와 시행일을 함께 적는다.
