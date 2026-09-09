@@ -49,7 +49,7 @@ draft: false
 ```
 
 - 카테고리는 3개 중 1개만: market(시장동향), tech(기술), policy(정책·규제·인증)
-- 태그에는 해당하는 축 태그를 반드시 포함: recycling, second-life, players, safety, supply, price. 추가로 구체 키워드 태그(예: ESS, 블랙매스, BMS)를 2~4개.
+- 태그는 6개 축(recycling, second-life, players, safety, supply, price) 안에서만 고른다. 해당 글에 맞는 축 태그만 넣고, 축에 속하지 않는 구체 키워드 태그(예: ESS, 블랙매스, BMS)는 tags에 추가하지 않는다.
 - 파일명: 영문 소문자 slug (예: eu-battery-passport-update.md). 한/영 파일명 동일.
 
 ## 문체와 표기 원칙
