@@ -10,7 +10,7 @@ cover:
   relative: false
 ---
 
-Korea's National Institute of Standards and Technology (KATS) publishes its own record of who's been designated as a reused-battery safety inspection body under KC 10031, and that record shows designations landing every single year since the regime took effect in October 2023 — 16 bodies confirmed as of May 2026. Year by year: 4 in 2023, 6 in 2024, 4 in 2025, and 2 so far in 2026 through May. Within that count, though, the number of bodies cleared to inspect repurposed battery systems — not just modules — has sat at four for over two years, unchanged since June 2024.
+The Korean Agency for Technology and Standards (KATS) publishes its own record of who's been designated as a reused-battery safety inspection body under KC 10031, and that record shows designations landing every single year since the regime took effect in October 2023 — 16 bodies confirmed as of May 2026. Year by year: 4 in 2023, 6 in 2024, 4 in 2025, and 2 so far in 2026 through May. Within that count, though, the number of bodies cleared to inspect repurposed battery systems — not just modules — has sat at four for over two years, unchanged since June 2024.
 
 The most recent addition to that record, going by a single news report, is Revoltics — designated No. 2026-3 effective September 1, per Kyongsang Ilbo (September 8). KATS's own designation-status document, last updated in May 2026, doesn't yet reflect this case, so what follows on Revoltics specifically is sourced to that one report and flagged as such up front.
 
