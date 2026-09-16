@@ -5,3 +5,5 @@ resources/_gen/
 .env
 sonar/candidates/
 sonar/seen.json
+
+.agents/
