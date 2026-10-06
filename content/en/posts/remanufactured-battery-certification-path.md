@@ -39,7 +39,7 @@ New Article 35-16 requires a MOLIT-administered "pre-distribution safety inspect
 
 A long list of items remains to be filled in by ministerial ordinance before the 2027 enforcement date: the concrete standards and procedure for performance grading; the detailed criteria splitting batteries into remanufacturing, reuse, and recycling tiers (a MOLIT-MOTIE-Environment Ministry matter); facility and equipment standards plus the designation procedure for grading agencies; the substance of the remanufactured-battery safety-verification test; standards, methods, and procedures for both the pre-distribution and periodic safety inspections; facility and equipment standards for storing and transporting retired batteries; and how the history-tracking system will actually operate.
 
-One more thing isn't resolved by this amendment alone. A separate law — the Act on the Management and Industrial Promotion of Retired Batteries, taking effect May 27, 2027 — will require distribution, remanufacturing, reuse, and recycling operators alike to register with MOTIE's minister. Whether that law's remanufacturing-business registration duplicates the Motor Vehicle Management Act's component-manufacturer registration, or one substitutes for the other, isn't something this amendment's text settles.
+It is also worth noting how this fits with the separate Act on the Management and Industrial Promotion of Used Batteries, taking effect May 27, 2027. That law requires only distributors (Article 6) and reuse businesses (Article 10) to register with the Minister of Trade, Industry and Resources. It does not create a separate registration for remanufacturers: for EV batteries, it defines a remanufacturer as a business registered as a component manufacturer under Article 35-15 of the Motor Vehicle Management Act (Article 2(4)). A remanufacturer therefore does not register twice; the Motor Vehicle Management Act registration is what qualifies it as a remanufacturer under the Used Batteries Act.
 
 ## ARC's take
 
@@ -51,3 +51,5 @@ Source: [Korea Law Information Center] Motor Vehicle Management Act amendment su
 
 Source: [Korea Insurance Research Institute, Weekly Trend (2025.9.15)] Motor Vehicle Management Act partial amendment bill (Bill No. 12740, sponsored by Rep. Song Gi-heon and 10 others), full old-new article text reproduced (https://kiri.or.kr/PDF/weeklytrend/20250915/trend20250915_19.pdf)
 </content>
+
+Correction (October 6, 2026): An earlier version said the Used Batteries Act requires all four business types to register and left open whether remanufacturers would face double registration. Under the statute, only distributors (Article 6) and reuse businesses (Article 10) register; a remanufacturer is defined as a component manufacturer registered under the Motor Vehicle Management Act (Article 2(4)), so no double registration arises.

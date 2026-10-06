@@ -40,7 +40,7 @@ The remark is worth reading against the grading structure. Assessment decides th
 
 ## Overlapping requirements
 
-Kim also argued that vehicle safety, resource-circulation, and fire and transport safety laws should not each demand the same or similar facilities and equipment. It sits at a different level, but it echoes a question we left open in our piece on the remanufacturing certification path: whether one company must register both under the Used Batteries Act and under the Motor Vehicle Management Act.
+Kim also argued that vehicle safety, resource-circulation, and fire and transport safety laws should not each demand the same or similar facilities and equipment. Registration itself does not overlap: the Used Batteries Act defines a remanufacturer as a business registered as a component manufacturer under the Motor Vehicle Management Act (Article 2(4)) rather than creating a second registration. The point therefore bites at the level of facility and equipment standards in the subordinate rules.
 
 ## What to watch
 
