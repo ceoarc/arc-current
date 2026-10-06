@@ -94,3 +94,50 @@ KC 62619 인증 개요와 사용후 배터리 적용 시 쟁점
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/used-battery-second-life-criteria/
 네이버 주소: https://blog.naver.com/arccurrent/224376765590
+
+게시한 뉴스 글
+Sonar로 게시한 뉴스 글의 게시 기록. 위 주제 대장(지식형 글)과 별개다. 게시일 순으로 쌓고, 네이버 주소는 도미닉이 게시 후 알려주면 채우며 그 전까지는 (미게시)로 둔다.
+한국환경공단, 사용후 배터리 초저온 동결 안전 운송·보관 실증사업 착수
+게시일: 2026-07-30
+주소: https://current.arc.ai.kr/ko/posts/keco-cryogenic-battery-transport-pilot/
+네이버 주소: (미게시)
+위카모빌리티·소프트베리·퓨처렉스, 진단·충전·재제조 잇는 'K-EV 얼라이언스' 출범
+게시일: 2026-08-06
+주소: https://current.arc.ai.kr/ko/posts/k-ev-alliance-battery-remanufacturing/
+네이버 주소: (미게시)
+중앙대, 열폭주 늦추고 흡수까지 하는 바이오 기반 배터리 열관리 복합소재 개발
+게시일: 2026-08-06
+주소: https://current.arc.ai.kr/ko/posts/cau-thermal-management-composite-material/
+네이버 주소: (미게시)
+구미시, 이차전지TF 가동…배터리 재사용·재활용 전주기 생태계 조성 추진
+게시일: 2026-08-06
+주소: https://current.arc.ai.kr/ko/posts/gumi-secondary-battery-taskforce-testbed/
+네이버 주소: (미게시)
+산업통상자원부·기후에너지환경부, 사용후 배터리 이력관리·인증 통합 위해 협약
+게시일: 2026-08-13
+주소: https://current.arc.ai.kr/ko/posts/used-battery-ministry-integration-mou/
+네이버 주소: (미게시)
+미국 AI 데이터센터, 사용후 EV 배터리로 전력 공백 메운다
+게시일: 2026-08-14
+주소: https://current.arc.ai.kr/ko/posts/used-ev-batteries-ai-data-center-power/
+네이버 주소: (미게시)
+K-BATTERY SHOW 2026, 해체부터 용도 전환까지 하드웨어로 이어 보인 사용후 배터리
+게시일: 2026-08-25
+주소: https://current.arc.ai.kr/ko/posts/k-battery-show-2026-hardware-reuse/
+네이버 주소: (미게시)
+SOH 공개 의무화가 만드는 유럽의 배터리 진단 시장
+게시일: 2026-09-01
+주소: https://current.arc.ai.kr/ko/posts/eu-soh-disclosure-diagnostic-market/
+네이버 주소: (미게시)
+재사용전지 안전성검사기관, 모듈 지정은 늘고 시스템 지정은 2년째 그대로
+게시일: 2026-09-09
+주소: https://current.arc.ai.kr/ko/posts/reused-battery-inspection-body-2026-3/
+네이버 주소: (미게시)
+사용후 배터리 ESS, 국내 충전소 연계 실증과 해외 3사의 서로 다른 단계
+게시일: 2026-09-16
+주소: https://current.arc.ai.kr/ko/posts/second-life-ess-pilot-and-overseas-stages/
+네이버 주소: (미게시)
+사용후 배터리 성능평가와 운반 기준, 하위법령 논의 앞둔 국회 세미나의 쟁점
+게시일: 2026-10-06
+주소: https://current.arc.ai.kr/ko/posts/used-battery-assessment-seminar-issues/
+네이버 주소: (미게시)
