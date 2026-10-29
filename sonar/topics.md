@@ -138,8 +138,8 @@ SOH 공개 의무화가 만드는 유럽의 배터리 진단 시장
 사용후 배터리 ESS, 국내 충전소 연계 실증과 해외 3사의 서로 다른 단계
 게시일: 2026-09-16
 주소: https://current.arc.ai.kr/ko/posts/second-life-ess-pilot-and-overseas-stages/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224413405723
 사용후 배터리 성능평가와 운반 기준, 하위법령 논의 앞둔 국회 세미나의 쟁점
 게시일: 2026-10-06
 주소: https://current.arc.ai.kr/ko/posts/used-battery-assessment-seminar-issues/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224433042122
