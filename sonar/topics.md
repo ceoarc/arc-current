@@ -143,3 +143,7 @@ SOH 공개 의무화가 만드는 유럽의 배터리 진단 시장
 게시일: 2026-10-06
 주소: https://current.arc.ai.kr/ko/posts/used-battery-assessment-seminar-issues/
 네이버 주소: https://blog.naver.com/arccurrent/224433042122
+사용후 배터리 평가 시설, 포항·구미에 연이어 개소…판정 기준은 아직
+게시일: 2026-10-29
+주소: https://current.arc.ai.kr/ko/posts/gyeongbuk-battery-assessment-centers-before-rules/
+네이버 주소: (미게시)
