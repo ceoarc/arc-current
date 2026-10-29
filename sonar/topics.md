@@ -52,13 +52,13 @@ KC 62619·KC 10031과 KS C IEC 62933의 관계: 구성품 안전기준과 ESS �
 메모: 셀·모듈 단위와 시스템 단위의 구분, 중복 적용 여부가 실무에서 자주 혼동되는 지점. 확인 결과: 전안법 안전기준 목록(운용요령 별표25)에서 KC 62933 번호는 확인되지 않았고, 62933은 KS 번호(KS C IEC 62933-5-2)다.
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/kc-62933-ess-standards-relation/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224407988649
 사용후 배터리 용어 정리: 재제조·재사용·재활용은 무엇이 다른가
 유형: 기준 해설
 메모: 대장에 없던 신규 항목(도미닉 직접 지정). 상태·처리경로·사업자유형·인증검사·제도·기술 용어를 법·인증 트랙과 연결해 정리한 용어집. 블로그 입구 역할.
 상태: 완료
 주소: https://current.arc.ai.kr/ko/posts/used-battery-glossary/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224397531874
 SOH 추정 방식의 종류와 현장 적용 한계
 유형: 기술 노트
 상태: 완료
@@ -118,7 +118,7 @@ Sonar로 게시한 뉴스 글의 게시 기록. 위 주제 대장(지식형 글)
 산업통상자원부·기후에너지환경부, 사용후 배터리 이력관리·인증 통합 위해 협약
 게시일: 2026-08-13
 주소: https://current.arc.ai.kr/ko/posts/used-battery-ministry-integration-mou/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224377582044
 미국 AI 데이터센터, 사용후 EV 배터리로 전력 공백 메운다
 게시일: 2026-08-14
 주소: https://current.arc.ai.kr/ko/posts/used-ev-batteries-ai-data-center-power/
@@ -130,7 +130,7 @@ K-BATTERY SHOW 2026, 해체부터 용도 전환까지 하드웨어로 이어 보
 SOH 공개 의무화가 만드는 유럽의 배터리 진단 시장
 게시일: 2026-09-01
 주소: https://current.arc.ai.kr/ko/posts/eu-soh-disclosure-diagnostic-market/
-네이버 주소: (미게시)
+네이버 주소: https://blog.naver.com/arccurrent/224397492421
 재사용전지 안전성검사기관, 모듈 지정은 늘고 시스템 지정은 2년째 그대로
 게시일: 2026-09-09
 주소: https://current.arc.ai.kr/ko/posts/reused-battery-inspection-body-2026-3/
